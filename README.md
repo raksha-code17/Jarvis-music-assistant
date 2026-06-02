@@ -1,4 +1,4 @@
-# Jarvis Voice Assistant
+# Jarvis Music Assistant
 A simple Python voice assistant that can:
 
 * Open websites
